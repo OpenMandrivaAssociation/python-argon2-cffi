@@ -3,7 +3,7 @@
 
 Name:		python-argon2-cffi
 Version:	23.1.0
-Release:	2
+Release:	3
 Source0:	https://files.pythonhosted.org/packages/source/a/%{module}/%{uname}-%{version}.tar.gz
 Summary:	The Argon2 password hashing algorithm for Python
 URL:		https://pypi.org/project/argon2-cffi/
